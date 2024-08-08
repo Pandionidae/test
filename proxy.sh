@@ -32,7 +32,7 @@ allow * * * 80-88,8080-8088 HTTP
 allow * * * 443,8443 HTTPS
 
 proxy -p53923 -n -a
-users Afv35iriz:CL:7ekVrNeQ
+users user:CL:7ekVrNeQ
 
 EOF
 
